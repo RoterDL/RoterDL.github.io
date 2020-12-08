@@ -1,24 +1,24 @@
 # Site settings
-title: BY Blog
-SEOTitle: Roter的博客 | BY Blog
+title: Roter Blog
+SEOTitle: Roter的博客
 header-img: img/post-bg-rwd.jpg
 email: roter31377@gmail.com
 description: "永远相信美好的事情即将发生。" # 网站介绍
-keyword: "中国, blog, AI, roter, DeepLearning" 
+keyword: "中国, blog, AI, roter, DeepLearning"
 url: "http://RoterDL.github.io"          # your host, for absolute URL
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
 github_repo: "https://github.com/qiubaiying/qiubaiying.github.io.git" # you code repository
 
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
-sidebar-about-description: "积跬步，行千里。"
+sidebar-about-description: "积跬步,行千里。"
 sidebar-avatar: /img/avatar-m.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
 
 # SNS settings
 RSS: false
-# weibo_username:   Roter_  
+# weibo_username:   Roter_
 zhihu_username:     Roter
 github_username:    RoterDL
 # facebook_username:  baiying.qiu.7
@@ -64,9 +64,9 @@ gitalk:
   enable: true    #是否开启Gitalk评论
   clientID: f2c84e7629bb1446c1a4                            #生成的clientID
   clientSecret: ca6d6139d1e1b8c43f8b2e19492ddcac8b322d0d    #生成的clientSecret
-  repo: qiubaiying.github.io    #仓库名称
-  owner: qiubaiying    #github用户名
-  admin: qiubaiying
+  repo: RoterDL.github.io    #仓库名称
+  owner: RoterDL    #github用户名
+  admin: RoterDL
   distractionFreeMode: true #是否启用类似FB的阴影遮罩
 
 
@@ -85,7 +85,7 @@ ga_domain: qiubaiying.top               # 默认的是 auto, 这里我是自定�
 
 
 # Featured Tags
-featured-tags: true                     # 是否使用首页标签
+featured-tags: False                     # 是否使用首页标签
 featured-condition-size: 1              # 相同标签数量大于这个数，才会出现在首页
 
 
