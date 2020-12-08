@@ -74,7 +74,7 @@ disqus_username: RoterDL
 
 # Analytics settings
 # Baidu Analytics
-ba_track_id:
+# ba_track_id:
 
 # Google Analytics
 ga_track_id: 'UA-185022248-1'            # Format: UA-xxxxxx-xx
