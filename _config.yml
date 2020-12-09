@@ -57,17 +57,17 @@ kramdown:
 
 # 评论系统
 # Disqus（https://disqus.com/）
-disqus_username: RoterDL
+# disqus_username: RoterDL
 
 # Gitalk
-# gitalk:
-#   enable: true    #是否开启Gitalk评论
-#   clientID: f2c84e7629bb1446c1a4                            #生成的clientID
-#   clientSecret: ca6d6139d1e1b8c43f8b2e19492ddcac8b322d0d    #生成的clientSecret
-#   repo: RoterDL.github.io    #仓库名称
-#   owner: RoterDL    #github用户名
-#   admin: RoterDL
-#   distractionFreeMode: true #是否启用类似FB的阴影遮罩
+gitalk:
+  enable: true    #是否开启Gitalk评论
+  clientID: ab93e313fc260ec1b328                            #生成的clientID
+  clientSecret: 18f5bb9173a8ac097d5b054e447346b85a41d240    #生成的clientSecret
+  repo: RoterDL.github.io    #仓库名称
+  owner: RoterDL    #github用户名
+  admin: RoterDL
+  distractionFreeMode: true #是否启用类似FB的阴影遮罩
 
 
 # 统计
